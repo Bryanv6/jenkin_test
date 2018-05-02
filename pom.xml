@@ -11,7 +11,7 @@
 
   <name>jenk Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>http://ec2-54-87-186-184.compute-1.amazonaws.com:8090</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
